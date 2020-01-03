@@ -1,3 +1,4 @@
+name: qiime2-2019.10
 channels:
 - qiime2/label/r2019.10
 - conda-forge
